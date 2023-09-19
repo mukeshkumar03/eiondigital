@@ -60,6 +60,7 @@
                         class="nav-link dropdown-toggle  <?php echo $active_link === 'Services' ? 'active' : '' ?>"
                         data-bs-toggle="dropdown">Services</a>
                     <div class="dropdown-menu m-0">
+                        <a href="intershop" class="dropdown-item">Intershop Development</a>
                         <a href="web" class="dropdown-item">Website Development</a>
                         <a href="app" class="dropdown-item">Mobile Application Development</a>
                         <a href="seo" class="dropdown-item">Digital Marketing</a>

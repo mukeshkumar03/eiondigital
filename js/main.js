@@ -120,7 +120,6 @@
     errorClass: "text-danger",
     rules: {
       name: "required",
-      service: { required: true },
       message: "required",
       email: {
         required: true,

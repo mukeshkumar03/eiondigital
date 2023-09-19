@@ -53,7 +53,7 @@ include './head.php';
               <i class="fa fa-envelope-open text-white"></i>
             </div>
             <div class="ps-4">
-              <h5 class="mb-2">Email to get free quote</h5>
+              <h5 class="mb-2">Get in touch</h5>
               <h4 class="text-primary mb-0">krmukesh.nit@gmail.com</h4>
             </div>
           </div>

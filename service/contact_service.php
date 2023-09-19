@@ -9,32 +9,27 @@ $subject = "Quote Request from $email";
 
 $message = "
     <html>
-    <head>
-    </head>
-    <body>
-    <table>
-    <tr>
-    <tr>
-    <td><strong>Name</strong></td>
-    <td>$name</td>
-    </tr>
-    <tr>
-    <tr>
-    <td><strong>Email</strong></td>
-    <td>$email</td>
-    </tr>
-    <tr>
-    <tr>
-    <td><strong>Service</strong></td>
-    <td>$subject</td>
-    </tr>
-    <tr>
-    <tr>
-    <td><strong>Message</strong></td>
-    <td>$comment</td>
-    </tr>
-    </table>
-    </body>
+        <body>
+            <table>
+                <tr>
+                <tr>
+                    <td><strong>Name</strong></td>
+                    <td>$name</td>
+                </tr>
+                <tr>
+                    <td><strong>Email</strong></td>
+                    <td>$email</td>
+                </tr>
+                <tr>
+                    <td><strong>Service</strong></td>
+                    <td>$subject</td>
+                </tr>
+                <tr>
+                    <td><strong>Message</strong></td>
+                    <td>$comment</td>
+                </tr>
+            </table>
+        </body>
     </html>
     ";
 

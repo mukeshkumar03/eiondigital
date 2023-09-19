@@ -23,8 +23,8 @@ include './head.php';
                         <h1 class="display-1 text-white mb-md-4 animated zoomIn">
                             Creative & Innovative Digital Solution
                         </h1>
-                        <a href="quote" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Free
-                            Quote</a>
+                        <a href="quote" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Get in
+                            touch</a>
                         <a href="contact" class="btn btn-outline-light py-md-3 px-md-5 animated slideInRight">Contact
                             Us</a>
                     </div>
@@ -40,8 +40,8 @@ include './head.php';
                         <h1 class="display-1 text-white mb-md-4 animated zoomIn">
                             Creative & Innovative Digital Solution
                         </h1>
-                        <a href="quote" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Free
-                            Quote</a>
+                        <a href="quote" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Get in
+                            touch</a>
                         <a href="contact" class="btn btn-outline-light py-md-3 px-md-5 animated slideInRight">Contact
                             Us</a>
                     </div>
@@ -58,9 +58,7 @@ include './head.php';
         </button>
     </div>
 
-    <?php include('./widgets/facts.php') ?>
-
-    <?php include('./widgets/about.php') ?>
+    <?php include('./widgets/services.php') ?>
 
     <?php include('./widgets/features.php') ?>
 

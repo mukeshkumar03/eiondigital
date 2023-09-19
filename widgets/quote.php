@@ -3,26 +3,11 @@
         <div class="row g-5">
             <div class="col-lg-7">
                 <div class="section-title position-relative pb-3 mb-5">
-                    <h5 class="fw-bold text-primary text-uppercase">Request A Quote</h5>
-                    <h1 class="mb-0">Need A Free Quote? Please Feel Free to Contact Us</h1>
-                </div>
-                <div class="row gx-3">
-                    <div class="col-sm-6 wow zoomIn" data-wow-delay="0.2s">
-                        <h5 class="mb-4">
-                            <i class="fa fa-reply text-primary me-3"></i>Reply within 24
-                            hours
-                        </h5>
-                    </div>
-                    <div class="col-sm-6 wow zoomIn" data-wow-delay="0.4s">
-                        <h5 class="mb-4">
-                            <i class="fa fa-phone-alt text-primary me-3"></i>24 hrs
-                            telephone support
-                        </h5>
-                    </div>
+                    <h5 class="fw-bold text-primary text-uppercase">Let&rsquo;s get in touch</h5>
                 </div>
                 <p class="mb-4">
                     Crafting Your Digital Presence: Tailored Web Development Solutions
-                    at Competitive Prices. Fill the form to get the quote or just call
+                    at Competitive Prices. Fill the form to get in touch or just call
                     us to get the details.
                 </p>
                 <div class="d-flex align-items-center mt-2 wow zoomIn" data-wow-delay="0.6s">
@@ -49,21 +34,11 @@
                                     placeholder="Your Email" style="height: 55px" />
                             </div>
                             <div class="col-12">
-                                <select name="service" class="form-select bg-light border-0" style="height: 55px">
-                                    <option value="">Select A Service</option>
-                                    <option value="web">Website Development</option>
-                                    <option value="app">
-                                        Mobile Application Development
-                                    </option>
-                                    <option value="seo">Digital Marketing</option>
-                                </select>
-                            </div>
-                            <div class="col-12">
                                 <textarea name="message" class="form-control bg-light border-0" rows="3"
                                     placeholder="Message"></textarea>
                             </div>
                             <div id="quote-success" class="p-3 mb-2 bg-success text-white">
-                                Quote Request has been submitted successfully
+                                Thanks. We'll contact you within 24 hours.
                             </div>
 
                             <div id="quote-error" class="p-3 mb-2 bg-danger text-white">
@@ -71,7 +46,7 @@
                             </div>
                             <div class="col-12">
                                 <button class="btn btn-dark w-100 py-3" type="submit">
-                                    Request A Quote
+                                    Contact Me
                                 </button>
                             </div>
                         </div>

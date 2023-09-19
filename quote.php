@@ -2,7 +2,7 @@
 <html lang="en">
 
 <?php
-$title = 'EION Digital: Request a Quote';
+$title = 'EION Digital: Get in touch';
 include './head.php';
 ?>
 
@@ -15,7 +15,7 @@ include './head.php';
   <div class="container-fluid bg-primary py-5 bg-header" style="margin-bottom: 90px;">
     <div class="row py-5">
       <div class="col-12 pt-lg-5 mt-lg-5 text-center">
-        <p class="display-4 text-white animated zoomIn">Want free quote? Just contact us.</p>
+        <p class="display-4 text-white animated zoomIn">Get in touch</p>
       </div>
     </div>
   </div>

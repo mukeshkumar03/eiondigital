@@ -6,11 +6,6 @@
                     <h3 class="text-light mb-0">Get In Touch</h3>
                 </div>
                 <div class="d-flex mb-2">
-                    <i class="bi bi-geo-alt text-primary me-2"></i>
-                    <p class="mb-0">C-322, Vaishno Lotus, Chikkanayakanahalli, Sarjapura Road, <br /> Bengaluru
-                        - 560035 <br /> India</p>
-                </div>
-                <div class="d-flex mb-2">
                     <i class="bi bi-envelope-open text-primary me-2"></i>
                     <p class="mb-0">krmukesh.nit@gmail.com</p>
                 </div>
@@ -49,15 +44,10 @@
     </div>
 </div>
 <div class="container-fluid text-white" style="background: #061429;">
-    <div class="container text-center">
-        <div class="row justify-content-end">
-            <div class="col-lg-8 col-md-6">
-                <div class="d-flex align-items-center justify-content-center" style="height: 75px;">
-                    <p class="mb-0">&copy; <span class="text-white border-bottom">EION Digital</span>. All Rights
-                        Reserved.</p>
-                </div>
-            </div>
-        </div>
+    <div class="d-flex align-items-center justify-content-center" style="height: 75px;">
+        <p class="mb-0">&copy; <span class="text-white border-bottom">EION Digital</span>. All Rights
+            Reserved.
+        </p>
     </div>
 </div>
 
