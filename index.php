@@ -25,8 +25,6 @@ include './head.php';
                         </h1>
                         <a href="quote" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Get in
                             touch</a>
-                        <a href="contact" class="btn btn-outline-light py-md-3 px-md-5 animated slideInRight">Contact
-                            Us</a>
                     </div>
                 </div>
             </div>
@@ -42,8 +40,6 @@ include './head.php';
                         </h1>
                         <a href="quote" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Get in
                             touch</a>
-                        <a href="contact" class="btn btn-outline-light py-md-3 px-md-5 animated slideInRight">Contact
-                            Us</a>
                     </div>
                 </div>
             </div>

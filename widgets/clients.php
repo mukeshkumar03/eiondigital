@@ -5,11 +5,12 @@
         </div>
         <div class="bg-white">
             <div class="owl-carousel vendor-carousel">
-                <img src="img/vendor-1.png" alt="" />
-                <img src="img/vendor-2.png" alt="" />
-                <img src="img/vendor-3.png" alt="" />
-                <img src="img/vendor-4.png" alt="" />
-                <img src="img/vendor-5.png" alt="" />
+                <img src="img/vendor-6.jpg" alt="Intershop" />
+                <img src="img/vendor-1.png" alt="Hamburg Commercial Bank" />
+                <img src="img/vendor-2.png" alt="Acharya Jagadish Chandra Bose Board of International Education" />
+                <img src="img/vendor-3.png" alt="Revit Health Care" />
+                <img src="img/vendor-4.png" alt="The Hridaan Banquets" />
+                <img src="img/vendor-5.png" alt="Dialus Hoildays" />
             </div>
         </div>
     </div>

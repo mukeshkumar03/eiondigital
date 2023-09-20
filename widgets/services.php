@@ -51,6 +51,18 @@
                     <a class="text-uppercase mt-2" href="seo">Read More <i class="bi bi-arrow-right"></i></a>
                 </div>
             </div>
+            <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
+                <div
+                    class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                    <div class="service-icon">
+                        <i class="fa fa-cart-plus text-white"></i>
+                    </div>
+                    <h4 class="mb-3">QA and Automation</h4>
+                    <p class="m-0">Ensures that software meet predefined quality standards</p>
+                    <a class="text-uppercase mt-2" href="quality-assurance">Read More <i
+                            class="bi bi-arrow-right"></i></a>
+                </div>
+            </div>
         </div>
     </div>
 </div>

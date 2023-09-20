@@ -36,7 +36,7 @@ include './head.php';
             <div class="row g-4">
                 <div class="col-lg-6 col-md-6 wow zoomIn" data-wow-delay="0.9s">
                     <div
-                        class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                        class="intershop-service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
                         <div class="service-icon">
                             <i class="fa fa-code text-white"></i>
                         </div>
@@ -52,7 +52,7 @@ include './head.php';
                 </div>
                 <div class="col-lg-6 col-md-6 wow zoomIn" data-wow-delay="0.3s">
                     <div
-                        class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                        class="intershop-service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
                         <div class="service-icon">
                             <i class="fa fa-qrcode text-white"></i>
                         </div>
@@ -70,7 +70,7 @@ include './head.php';
             <div class="row g-4 mt-4">
                 <div class="col-lg-6 col-md-6 wow zoomIn" data-wow-delay="0.9s">
                     <div
-                        class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                        class="intershop-service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
                         <div class="service-icon">
                             <i class="fa fa-swatchbook text-white"></i>
                         </div>
@@ -83,7 +83,7 @@ include './head.php';
                 </div>
                 <div class="col-lg-6 col-md-6 wow zoomIn" data-wow-delay="0.3s">
                     <div
-                        class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                        class="intershop-service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
                         <div class="service-icon">
                             <i class="fa fa-qrcode text-white"></i>
                         </div>
