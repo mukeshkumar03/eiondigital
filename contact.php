@@ -54,7 +54,12 @@ include './head.php';
             </div>
             <div class="ps-4">
               <h5 class="mb-2">Get in touch</h5>
-              <h4 class="text-primary mb-0">krmukesh.nit@gmail.com</h4>
+              <h4 class="text-primary mb-0">
+                <a href="mailto:info@eiondigitalsolution.com">
+                  <i class="fa fa-envelope-open me-2"></i>
+                  info@eiondigitalsolution.com
+                </a>
+              </h4>
             </div>
           </div>
         </div>

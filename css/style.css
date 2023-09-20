@@ -514,6 +514,19 @@ h6,
   display: none;
 }
 
+.site-logo {
+  width: 300px;
+  height: 77px;
+  text-indent: -9999px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url("../img/logo-white.png");
+}
+
+.sticky-top .site-logo {
+  background-image: url("../img/logo-blue.png");
+}
+
 @media (min-width: 767.98px) {
   .footer-about {
     margin-bottom: -75px;

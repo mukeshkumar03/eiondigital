@@ -14,9 +14,9 @@
                     <a href="tel:+91 8618180342"><i class="fa fa-phone-alt me-2"></i>+91 8618180342</a>
                 </small>
                 <small class="text-light">
-                    <a href="mailto:krmukesh.nit@gmail.com">
+                    <a href="mailto:info@eiondigitalsolution.com">
                         <i class="fa fa-envelope-open me-2"></i>
-                        krmukesh.nit@gmail.com
+                        info@eiondigitalsolution.com
                     </a>
                 </small>
             </div>
@@ -42,9 +42,7 @@
 <!-- Navbar & Carousel Start -->
 <div class="container-fluid position-relative p-0">
     <nav class="navbar navbar-expand-lg navbar-dark px-5 py-3 py-lg-0">
-        <a href="/" class="navbar-brand p-0">
-            <img src="./img/logo-transparent.svg" width="125" height="97" />
-        </a>
+        <a href="/" class="site-logo navbar-brand p-0">Eion Digital Solution</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="fa fa-bars"></span>
         </button>
