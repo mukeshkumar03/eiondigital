@@ -7,7 +7,9 @@
                 </div>
                 <div class="d-flex mb-2">
                     <i class="bi bi-envelope-open text-primary me-2"></i>
-                    <p class="mb-0">krmukesh.nit@gmail.com</p>
+                    <a href="mailto:info@eiondigitalsolution.com">
+                        info@eiondigitalsolution.com
+                    </a>
                 </div>
                 <div class="d-flex mb-2">
                     <i class="bi bi-telephone text-primary me-2"></i>

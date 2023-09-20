@@ -4,7 +4,7 @@ $email = $_POST['email'];
 $subject = $_POST['subject'];
 $comment = $_POST['message'];
 
-$to = "krmukesh.nit@gmail.com";
+$to = "info@eiondigitalsolution.com";
 $subject = "Quote Request from $email";
 
 $message = "
