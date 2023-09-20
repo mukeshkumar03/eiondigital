@@ -43,9 +43,7 @@
 <div class="container-fluid position-relative p-0">
     <nav class="navbar navbar-expand-lg navbar-dark px-5 py-3 py-lg-0">
         <a href="/" class="navbar-brand p-0">
-            <h1 class="m-0">
-                <i class="fa fa-laptop-code me-2"></i>EION Digital
-            </h1>
+            <img src="./img/logo-transparent.svg" width="125" height="97" />
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="fa fa-bars"></span>
@@ -64,6 +62,7 @@
                         <a href="web" class="dropdown-item">Website Development</a>
                         <a href="app" class="dropdown-item">Mobile Application Development</a>
                         <a href="seo" class="dropdown-item">Digital Marketing</a>
+                        <a href="quality-assurance" class="dropdown-item">QA and Automation</a>
                     </div>
                 </div>
                 <a href="projects"
